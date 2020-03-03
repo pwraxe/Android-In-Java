@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.teit_miniproject">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity  android:name=".Departments"/>
+
+        <activity  android:name=".AboutUs"/>
+
+        <activity  android:name=".ReachUs"/>
+
+        <activity  android:name=".LoginPage"/>
+
+        <activity  android:name=".SVITMission"/>
+
+        <activity  android:name=".Registration"/>
+
+        <activity  android:name=".FirstYear"/>
+
+        <activity  android:name=".Computer"/>
+
+        <activity  android:name=".IT"/>
+
+        <activity  android:name=".Chemical"/>
+
+        <activity  android:name=".Electrical"/>
+
+        <activity  android:name=".E_TC"/>
+
+        <activity  android:name=".Mechanical"/>
+
+        <activity  android:name=".MBA"/>
+
+        <activity android:name=".AdminAccessPage"/>
+
+    </application>
+
+</manifest>
