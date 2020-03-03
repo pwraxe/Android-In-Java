@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="id">Employee ID:</string>
+
+    <string name="fname">First Name:</string>
+
+    <string name="lname">Last Name:</string>
+
+    <string name="email">Email ID:</string>
+
+    <string name="mobile">Mobile No:</string>
+
+    <string name="dept">Department:</string>
+
+    <string name="salary">Salary:</string>
+
+    <string name="city">City:</string>
+
+    <string name="experience">Experience:</string>
+
+    <string name="idHint">Enter Employee ID</string>
+
+    <string name="fnameHint">Employee First Name</string>
+
+    <string name="lnameHint">Employee Last Name</string>
+
+    <string name="emailHint">Employee Email ID</string>
+
+    <string name="mobileHint">Employee Mobile No</string>
+
+    <string name="deptHint">Employee Department</string>
+
+    <string name="salaryHint">Employee Salary</string>
+
+    <string name="cityHint">Employee City</string>
+
+    <string name="experienceHint">Employee Experience</string>
+
+    <string name="submit">Submit</string>
+
+    <string name="exit">Exit</string>
+
+    <string name="getData">Display Data</string>
+
+    <string name="update">Update Data</string>
+
+    <string name="delete">Delete Data</string>
+</resources>
