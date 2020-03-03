@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Data_base</string>
+
+    <string name="fname">First Name:</string>
+
+    <string name="lname">Last Name:</string>
+
+    <string name="email">Email ID:</string>
+
+    <string name="mobile">Mobile No:</string>
+
+    <string name="city">City:</string>
+
+    <string name="pincode">Pincode:</string>
+
+    <string name="fnameHint">Enter First Name</string>
+
+    <string name="lnameHint">Enter Last Name</string>
+
+    <string name="emailHint">Enter Email ID</string>
+
+    <string name="mobileHint">Enter Mobile No</string>
+
+    <string name="cityHint">Enter City</string>
+
+    <string name="pincodeHint">Enter Pincode</string>
+
+    <string name="register">Register</string>
+
+    <string name="getData">Get Data</string>
+
+    <string name="update">Update</string>
+
+    <string name="delete">Delete</string>
+
+    <string name="id">ID : </string>
+
+</resources>
