@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mathematics_Demo</string>
+    <string name="fnumHint">Enter First No</string>
+    <string name="snumHint">Enter Second No</string>
+</resources>
